@@ -43,7 +43,7 @@ Quais são os top 5 países em questão de salário?
 A tabela abaixo contém os salários mínimos mensais de cinco países presentes na amostra de dados. Baseado nesses valores, gostaríamos de saber quantos usuários ganham mais de 5 salários mínimos em cada um desses países.
 -imagem no pdf
 
-O que esperamos ver ao final?
+# O que esperamos ver ao final?
 
 Nosso time está curioso para ver o seu projeto. Esperamos que seu entregável final contenha os seguintes ítens:
 
