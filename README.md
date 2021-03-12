@@ -1,6 +1,12 @@
 # Data-Engineer
 Challenge Data Engineer - Python - SQL 
 
+- QUESTIONÁRIO: Processo-Seletivo-Ame-Data-Engineer-Desafio.pdf
+- ETL - AME-ETL.ipynb
+- DATABASE STRUCTURE: creatingbd.sql
+- TREATING DATA - bigint-to-smallint.sql
+- QUERIES: questionario-respondido.sql
+
 # Context
 Each year, we at Stack Overflow ask the developer community about everything from their favorite technologies to their job preferences. This year marks the eighth year we’ve published our Annual Developer Survey results—with the largest number of respondents yet. Over 100,000 developers took the 30-minute survey in January 2018.
 
