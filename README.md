@@ -62,3 +62,5 @@ Nosso time está curioso para ver o seu projeto. Esperamos que seu entregável f
 4. Os arquivos com o seu código utilizado para ler os arquivos textos e publicar os dados no banco.
 
 Caso você tenha dificuldade de finalizar o seu projeto, nós encorajamos fortemente que nos envie a sua evolução (consultas SQL, código, descrição de como resolveria o problema, etc.).
+
+# Raiana Rocha helped a lot in python and sql
